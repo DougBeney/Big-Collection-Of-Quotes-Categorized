@@ -1,3 +1,5 @@
 # Enjoy these quotes!
 
-They're great for implementing in any of your projects
+Use them in any of your projects.
+
+
